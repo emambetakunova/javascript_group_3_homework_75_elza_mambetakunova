@@ -1,0 +1,5 @@
+export const CODE_REQUEST = 'CODE_REQUEST';
+export const CODE_SUCCESS_ENCODE = 'CODE_SUCCESS_ENCODES';
+export const CODE_SUCCESS_DECODE = 'CODE_SUCCESS_DECODE';
+export const CODE_FAILURE = 'CODE_FAILURE';
+export const TEXT = 'TEXT';
